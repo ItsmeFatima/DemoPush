@@ -9,4 +9,6 @@ public class DemoPush {
 
 	}
 
+	Private add(a,b);
+	
 }
