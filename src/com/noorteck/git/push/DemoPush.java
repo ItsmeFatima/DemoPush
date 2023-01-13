@@ -9,6 +9,7 @@ public class DemoPush {
 
 	}
 
-	Private add(a,b);
+	private void add(int a, int b) {
 	
+	}
 }
