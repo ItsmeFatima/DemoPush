@@ -12,4 +12,5 @@ public class DemoPush {
 	private void add(int a, int b) {
 	
 	}
+	private void add(double d, int a, int b) {
 }
