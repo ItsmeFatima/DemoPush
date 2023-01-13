@@ -6,6 +6,8 @@ public class CommitandPush {
 		System.out.println("Secong try for push an commit");
 		
 		System.out.println("push");
+		
+		// make some changes
 	}
 
 	
